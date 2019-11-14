@@ -6,7 +6,7 @@
   "devDependencies": {
     "mocha": "1.8.1",
     "should": "1.2.2",
-    "express": "3.1.0",
+    "express": "4.17.1",
     "ejs": "0.8.4",
     "zombie": "1.4.1",
     "grunt": "~0.4.0",
